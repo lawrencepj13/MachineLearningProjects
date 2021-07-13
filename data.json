@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1. Little interest in doing things?",
+    "Q2. Feeling down, depressed or hopeless?",
+    "Q3. Trouble falling or staying asleep, or sleeping too much?",
+    "Q4. Feeling tired or having little energy?"
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2
+  ],
+  "options": [
+
+    ["Not at all",
+      "Several Days",
+      "More than half days",
+      "Nearly every day"
+    ],
+    ["Not at all",
+      "Several Days",
+      "More than half days",
+      "Nearly every day"
+    ],
+    ["Not at all",
+      "Several Days",
+      "More than half days",
+      "Nearly every day"
+    ],
+    ["Not at all",
+      "Several Days",
+      "More than half days",
+      "Nearly every day"
+    ]
+  ]
+}
